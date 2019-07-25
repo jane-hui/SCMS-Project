@@ -15,3 +15,6 @@ System Uses:
 - Managers have extra privileges such as able to view records stored from database.
 - Managers can also alter settings such as register any new user or new item, and update prices of any item if needed.
 
+
+
+Screenshots of the program can be found in [[Screenshots] Folder](https://github.com/janehui0820/SCMS-Project/tree/master/%5BScreenshots%5D)
